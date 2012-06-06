@@ -1,7 +1,7 @@
 JUDCon Boston mobile registration app on OpenShift
 ====================================================
 
-This is the kitchensink html5/mboile JBoss Quickstart app.
+This is the JUDCon Boston 2012 html5/mboile registration app.
 
 Running on OpenShift
 --------------------
