@@ -1,3 +1,5 @@
+Update: June 2018 moved to [Gitlab](https://gitlab.com/eschabell/openshift-judcon)
+
 JUDCon Boston mobile registration app on OpenShift
 ====================================================
 This is the JUDCon Boston 2012 html5 mobile registration app.
